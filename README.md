@@ -8,6 +8,10 @@ A comprehensive **real-time embedded and IoT-based system** designed to monitor 
 
 This project designs and implements a **real-time Vehicle Health Monitoring and Driver Alert System** that continuously acquires data from multiple vehicle-related sensors, processes it locally using an embedded controller, and transmits it over the **CAN bus**.  
 
+<p align="left">
+  <img src="OUTPUT_IMAGES/Engine.jpeg" width="600"/>
+</p>
+
 The processed data is:
 - Displayed locally on a **TFT display**
 - Remotely monitored using **cloud services**
