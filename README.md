@@ -19,7 +19,7 @@ An **event-based alert mechanism** is implemented to notify users through **emai
 ## 🧩 System Block Diagram
 
 <p align="center">
-  <img src="Images/block_diagram.jpeg" width="900"/>
+  <img src="Block_Diagram/block_diagram.jpeg" width="900"/>
 </p>
 
 This block diagram shows the **transmitter–receiver architecture** of the system, where sensor data is processed by STM32, transmitted over CAN, and sent to the cloud via ESP32.
