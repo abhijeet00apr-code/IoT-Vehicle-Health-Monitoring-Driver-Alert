@@ -13,6 +13,7 @@ This project presents a real-time Vehicle Health Monitoring and Driver Alert Sys
 Engine-related parameters are analyzed in real time to detect abnormal conditions, while the driver alert mechanism identifies unsafe driving behavior such as removing hands from the steering wheel. The processed information is displayed locally on a TFT display and simultaneously transmitted to the cloud for remote monitoring.
 
 An event-driven alert mechanism generates email notifications whenever predefined safety thresholds are exceeded, enabling early fault detection and proactive response. The overall system follows a scalable, reliable, and automotive-style architecture, making it suitable for real-world vehicle monitoring and driver safety applications.
+
 ---
 
 ## 🧩 System Block Diagram
