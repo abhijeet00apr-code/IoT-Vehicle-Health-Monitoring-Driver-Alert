@@ -143,7 +143,7 @@ The above image shows the complete hardware implementation of the system, includ
 
 ## 📸 Working Demonstration
 
-📌 Refer to the **Images** folder for real-time working photos, debugging screenshots, and cloud alert demonstrations.
+📌 Refer to the **OUTPUT_IMAGES** folder for real-time working photos, debugging screenshots, and cloud alert demonstrations.
 
 ---
 
