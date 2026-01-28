@@ -6,21 +6,13 @@ A comprehensive **real-time embedded and IoT-based system** designed to monitor 
 
 ## 📋 Overview
 
-This project designs and implements a **real-time Vehicle Health Monitoring and Driver Alert System** that continuously acquires data from multiple vehicle-related sensors, processes it locally using an embedded controller, and transmits it over the **CAN bus**.  
+This project presents a real-time Vehicle Health Monitoring and Driver Alert System designed to enhance vehicle safety and reliability. The system continuously monitors engine operating conditions and driver hand presence on the steering wheel, processes the data locally, and communicates it using an automotive-grade CAN protocol.
 
-<p align="center">
-  <img src="OUTPUT_IMAGES/Engine.png" width="300"/>
-  <img src="OUTPUT_IMAGES/touch.png" width="300"/>
-</p>
+<p align="center"> <img src="OUTPUT_IMAGES/Engine.png" width="300"/> <img src="OUTPUT_IMAGES/touch.png" width="300"/> </p>
 
+Engine-related parameters are analyzed in real time to detect abnormal conditions, while the driver alert mechanism identifies unsafe driving behavior such as removing hands from the steering wheel. The processed information is displayed locally on a TFT display and simultaneously transmitted to the cloud for remote monitoring.
 
-
-The processed data is:
-- Displayed locally on a **TFT display**
-- Remotely monitored using **cloud services**
-
-An **event-based alert mechanism** is implemented to notify users through **email alerts** whenever predefined safety thresholds are exceeded.
-
+An event-driven alert mechanism generates email notifications whenever predefined safety thresholds are exceeded, enabling early fault detection and proactive response. The overall system follows a scalable, reliable, and automotive-style architecture, making it suitable for real-world vehicle monitoring and driver safety applications.
 ---
 
 ## 🧩 System Block Diagram
