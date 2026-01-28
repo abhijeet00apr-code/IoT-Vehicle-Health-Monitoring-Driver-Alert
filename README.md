@@ -119,7 +119,7 @@ The collected data is analyzed to evaluate engine health and detect abnormal ope
 ## 🛠️ Hardware Setup
 
 <p align="center">
-  <img src="Circuit_Diagram/Hardware.jpg" width="600"/>
+  <img src="Circuit_Diagram/Hardware.png" width="600"/>
 </p>
 
 The above image shows the complete hardware implementation of the system, including the STM32 controller, ESP32 gateway, sensors, CAN interface, and display modules mounted on a prototype board.
