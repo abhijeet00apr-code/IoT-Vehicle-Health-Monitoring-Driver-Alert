@@ -1,4 +1,4 @@
-# 🚗 IoT Based Vehicle Health Monitoring and Driver Alert System Using CAN and IoT
+# 🚗 IoT Based Vehicle Health Monitoring and Driver Alert System Using CAN
 
 A comprehensive **real-time embedded and IoT-based system** designed to monitor vehicle health parameters and driver safety conditions using an **automotive-grade CAN communication network** and **cloud-based alerting**. The system enables real-time monitoring, fault detection, and proactive alerts for improved safety and reliability.
 
